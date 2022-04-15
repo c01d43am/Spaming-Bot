@@ -11,6 +11,7 @@ https://pypi.org/project/PyAutoGUI/
 
 open the code and send.txt too 
 you can change the messages you wanna spam
+
 warning: OS may lag and may overheat 
 
 
