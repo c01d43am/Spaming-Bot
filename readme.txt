@@ -1,4 +1,5 @@
 Make sure you download the library need for it
+
 To install PyAutoGUI, 
 
 install the pyautogui package from PyPI by running 
@@ -7,3 +8,7 @@ install the pyautogui package from PyPI by running
 >>pip3 install pyautogui (on macOS and Linux)
 
 https://pypi.org/project/PyAutoGUI/
+
+open the code and send.txt too 
+you can change the messages you wanna spam
+warning: OS may lag and may overheat 
